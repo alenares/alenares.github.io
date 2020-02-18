@@ -3,14 +3,5 @@
 {"name":"flare.companies.aislelabs","size":3938,"imports":["flare.hardware.bluetooth","flare.verticals.heathcare"]},
 {"name":"flare.companies.aisle411","size":3938,"imports":["flare.hardware.bluetooth","flare.verticals.heathcare"]},
 {"name":"flare.companies.apple","size":3938,"imports":["flare.hardware.bluetooth","flare.verticals.heathcare"]},
-{"name":"flare.companies.cloud4wi","size":743,"imports":["flare.services.RTLS","flare.verticals.office"]},
-{"name":"flare.companies.gozio","size":743,"imports":["flare.services.RTLS","flare.verticals.office"]},
-{"name":"flare.companies.here","size":3938,"imports":["flare.hardware.bluetooth","flare.verticals.heathcare"]},
-{"name":"flare.companies.indooratlas","size":3938,"imports":["flare.hardware.bluetooth","flare.verticals.heathcare"]},
-{"name":"flare.companies.innerspace","size":3938,"imports":["flare.hardware.bluetooth","flare.verticals.heathcare"]},
-{"name":"flare.companies.locatify","size":3938,"imports":["flare.hardware.bluetooth","flare.verticals.heathcare"]},
-{"name":"flare.companies.locuslabs","size":3938,"imports":["flare.hardware.bluetooth","flare.verticals.heathcare"]},
-{"name":"flare.companies.mappedin","size":6714,"imports":["flare.verticals.retail","flare.verticals.realestate"]},
-{"name":"flare.companies.mapspeople","size":3534,"imports":["flare.hardware.bluetooth","flare.verticals.heathcare","flare.verticals.realestate","flare.verticals.office"]},
-{"name":"flare.companies.mapwize","size":3812,"imports":["flare.services.RTLS","flare.verticals.retail","flare.verticals.office"]}
+{"name":"flare.companies.cloud4wi","size":743,"imports":["flare.services.RTLS","flare.verticals.office"]}
 ]
