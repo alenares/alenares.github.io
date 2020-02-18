@@ -301,8 +301,6 @@
     "imports": []
   },
   {
-    "name": "flare.verticals.warehouse",
-    "size": 2202,
-    "imports": []
+    "name": "flare.verticals.warehouse"
   }
 ]
