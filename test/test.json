@@ -1,5 +1,5 @@
 [
-{"name":"flare.companies.visioglobe","size":1,"imports":["flare.hardware.bluetooth","flare.verticals.heathcare"]},
+{"name":"flare.companies.visioglobe","size":1,"imports":["flare.verticals.airports","flare.verticals.convention_centres","flare.verticals.heathcare","flare.verticals.office","flare.verticals.realestate","flare.verticals.retail","flare.verticals.stadiums","flare.verticals.warehouse","flare.hardware.bluetooth","flare.verticals.heathcare"]},
 {"name":"flare.companies.mapwize","size":1,"imports":["flare.RTLS","flare.verticals.retail","flare.verticals.test"]},
 {"name":"flare.companies.mappedin","size":1,"imports":["flare.verticals.retail","flare.verticals.realestate"]},
 {"name":"flare.companies.spreo","size":1,"imports":["flare.RTLS","flare.verticals.fgegehg"]},
