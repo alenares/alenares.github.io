@@ -1,14 +1,12 @@
 [
     {
       "name": "flare.companies.inpixon",
-      "size": 20,
       "imports": [
         "flare.services.analytics"
       ]
     },
     {
       "name": "flare.companies.aislelabs",
-      "size": 20,
       "imports": [
         "flare.hardware.bluetooth",
         "flare.verticals.heathcare"
@@ -111,7 +109,6 @@
     },
     {
       "name": "flare.companies.mazemap",
-      "size": 20,
       "imports": [
         "flare.hardware.bluetooth",
         "flare.verticals.heathcare"
@@ -119,7 +116,6 @@
     },
     {
       "name": "flare.companies.mist",
-      "size": 20,
       "imports": [
         "flare.hardware.bluetooth",
         "flare.verticals.heathcare"
@@ -127,7 +123,6 @@
     },
     {
       "name": "flare.companies.navigine",
-      "size": 20,
       "imports": [
         "flare.hardware.bluetooth",
         "flare.verticals.heathcare"
@@ -135,7 +130,6 @@
     },
     {
       "name": "flare.companies.nextnav",
-      "size": 20,
       "imports": [
         "flare.hardware.bluetooth",
         "flare.verticals.heathcare"
@@ -143,7 +137,6 @@
     },
     {
       "name": "flare.companies.placeiq",
-      "size": 20,
       "imports": [
         "flare.hardware.bluetooth",
         "flare.verticals.heathcare"
@@ -151,7 +144,6 @@
     },
     {
       "name": "flare.companies.pointr",
-      "size": 20,
       "imports": [
         "flare.hardware.UWB",
         "flare.hardware.bluetooth",
@@ -160,7 +152,6 @@
     },
     {
       "name": "flare.companies.purple",
-      "size": 20,
       "imports": [
         "flare.verticals.stadiums",
         "flare.hardware.bluetooth",
@@ -169,7 +160,6 @@
     },
     {
       "name": "flare.companies.retailnext",
-      "size": 20,
       "imports": [
         "flare.verticals.warehouse",
         "flare.hardware.bluetooth",
@@ -178,14 +168,12 @@
     },
     {
       "name": "flare.companies.skyfii",
-      "size": 743,
       "imports": [
         "flare.services.analytics"
       ]
     },
     {
       "name": "flare.companies.sewio_networks",
-      "size": 20,
       "imports": [
         "flare.services.wayfinding",
         "flare.hardware.bluetooth",
@@ -194,21 +182,18 @@
     },
     {
       "name": "flare.companies.spreo",
-      "size": 743,
       "imports": [
         "flare.verticals.heathcare"
       ]
     },
     {
       "name": "flare.companies.visioglobe",
-      "size": 20,
       "imports": [
         "flare.verticals.heathcare"
       ]
     },
     {
       "name": "flare.companies.walkbase",
-      "size": 20,
       "imports": [
         "flare.services.RTLS",
         "flare.hardware.bluetooth",
@@ -217,7 +202,6 @@
     },
     {
       "name": "flare.companies.yelp",
-      "size": 20,
       "imports": [
         "flare.hardware.WiFi",
         "flare.services.mapping",
