@@ -44,11 +44,3 @@
 {"name":"flare.verticals.stadiums","size":2202,"imports":[]},
 {"name":"flare.verticals.warehouse","size":2202,"imports":[]}
 ]
-
-{"name":"node.verticals.heathcare","size":1983,"imports":[]},
-{"name":"node.verticals.office","size":1375,"imports":[]},
-{"name":"node.verticals.realestate","size":1375,"imports":[]},
-{"name":"node.verticals.retail","size":2047,"imports":[]},
-{"name":"node.verticals.stadiums","size":2202,"imports":[]},
-{"name":"node.verticals.warehouse","size":2202,"imports":[]}
-]
