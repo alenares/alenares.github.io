@@ -14,7 +14,6 @@
     },
     {
       "name": "flare.companies.aisle411",
-      "size": 20,
       "imports": [
         "flare.verticals.airports",
         "flare.hardware.bluetooth",
@@ -23,7 +22,6 @@
     },
     {
       "name": "flare.companies.apple",
-      "size": 20,
       "imports": [
         "flare.hardware.bluetooth",
         "flare.verticals.heathcare"
@@ -31,21 +29,18 @@
     },
     {
       "name": "flare.companies.cloud4wi",
-      "size": 743,
       "imports": [
         "flare.services.analytics"
       ]
     },
     {
       "name": "flare.companies.gozio",
-      "size": 743,
       "imports": [
         "flare.services.analytics"
       ]
     },
     {
       "name": "flare.companies.here",
-      "size": 20,
       "imports": [
         "flare.hardware.bluetooth",
         "flare.verticals.heathcare"
@@ -53,7 +48,6 @@
     },
     {
       "name": "flare.companies.indooratlas",
-      "size": 20,
       "imports": [
         "flare.hardware.bluetooth",
         "flare.verticals.heathcare"
@@ -61,7 +55,6 @@
     },
     {
       "name": "flare.companies.innerspace",
-      "size": 20,
       "imports": [
         "flare.hardware.bluetooth",
         "flare.verticals.heathcare"
@@ -69,7 +62,6 @@
     },
     {
       "name": "flare.companies.locatify",
-      "size": 20,
       "imports": [
         "flare.hardware.bluetooth",
         "flare.verticals.heathcare"
@@ -77,7 +69,6 @@
     },
     {
       "name": "flare.companies.locuslabs",
-      "size": 20,
       "imports": [
         "flare.verticals.convention_centres",
         "flare.hardware.bluetooth",
@@ -86,14 +77,12 @@
     },
     {
       "name": "flare.companies.mappedin",
-      "size": 6714,
       "imports": [
         "flare.services.analytics"
       ]
     },
     {
       "name": "flare.companies.mapspeople",
-      "size": 3534,
       "imports": [
         "flare.hardware.bluetooth",
         "flare.verticals.heathcare"
@@ -101,7 +90,6 @@
     },
     {
       "name": "flare.companies.mapwize",
-      "size": 3812,
       "imports": [
         "flare.hardware.ultrasounds",
         "flare.services.analytics"
