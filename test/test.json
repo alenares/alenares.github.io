@@ -2,7 +2,14 @@
     {
       "name": "node.companies.inpixon",
       "imports": [
-        "node.services.analytics"
+        "node.services.analytics",
+        "node.services.mapping",
+        "node.services.wayfinding",
+        "node.hardware.WiFi",
+        "node.hardware.cellular",
+        "node.verticals.heathcare",
+        "node.verticals.realestate",
+        "node.verticals.retail"
       ]
     },
     {
@@ -220,6 +227,9 @@
     },
     {
       "name": "node.hardware.WiFi"
+    },
+    {
+      "name": "node.hardware.cellular"
     },
     {
       "name": "node.verticals.airports"
