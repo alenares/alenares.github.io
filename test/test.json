@@ -1,248 +1,248 @@
 [
     {
-      "name": "flare.companies.inpixon",
+      "name": "node.companies.inpixon",
       "imports": [
-        "flare.services.analytics"
+        "node.services.analytics"
       ]
     },
     {
-      "name": "flare.companies.aislelabs",
+      "name": "node.companies.aislelabs",
       "imports": [
-        "flare.hardware.bluetooth",
-        "flare.verticals.heathcare"
+        "node.hardware.bluetooth",
+        "node.verticals.heathcare"
       ]
     },
     {
-      "name": "flare.companies.aisle411",
+      "name": "node.companies.aisle411",
       "imports": [
-        "flare.verticals.airports",
-        "flare.hardware.bluetooth",
-        "flare.verticals.heathcare"
+        "node.verticals.airports",
+        "node.hardware.bluetooth",
+        "node.verticals.heathcare"
       ]
     },
     {
-      "name": "flare.companies.apple",
+      "name": "node.companies.apple",
       "imports": [
-        "flare.hardware.bluetooth",
-        "flare.verticals.heathcare"
+        "node.hardware.bluetooth",
+        "node.verticals.heathcare"
       ]
     },
     {
-      "name": "flare.companies.cloud4wi",
+      "name": "node.companies.cloud4wi",
       "imports": [
-        "flare.services.analytics"
+        "node.services.analytics"
       ]
     },
     {
-      "name": "flare.companies.gozio",
+      "name": "node.companies.gozio",
       "imports": [
-        "flare.services.analytics"
+        "node.services.analytics"
       ]
     },
     {
-      "name": "flare.companies.here",
+      "name": "node.companies.here",
       "imports": [
-        "flare.hardware.bluetooth",
-        "flare.verticals.heathcare"
+        "node.hardware.bluetooth",
+        "node.verticals.heathcare"
       ]
     },
     {
-      "name": "flare.companies.indooratlas",
+      "name": "node.companies.indooratlas",
       "imports": [
-        "flare.hardware.bluetooth",
-        "flare.verticals.heathcare"
+        "node.hardware.bluetooth",
+        "node.verticals.heathcare"
       ]
     },
     {
-      "name": "flare.companies.innerspace",
+      "name": "node.companies.innerspace",
       "imports": [
-        "flare.hardware.bluetooth",
-        "flare.verticals.heathcare"
+        "node.hardware.bluetooth",
+        "node.verticals.heathcare"
       ]
     },
     {
-      "name": "flare.companies.locatify",
+      "name": "node.companies.locatify",
       "imports": [
-        "flare.hardware.bluetooth",
-        "flare.verticals.heathcare"
+        "node.hardware.bluetooth",
+        "node.verticals.heathcare"
       ]
     },
     {
-      "name": "flare.companies.locuslabs",
+      "name": "node.companies.locuslabs",
       "imports": [
-        "flare.verticals.convention_centres",
-        "flare.hardware.bluetooth",
-        "flare.verticals.heathcare"
+        "node.verticals.convention_centres",
+        "node.hardware.bluetooth",
+        "node.verticals.heathcare"
       ]
     },
     {
-      "name": "flare.companies.mappedin",
+      "name": "node.companies.mappedin",
       "imports": [
-        "flare.services.analytics"
+        "node.services.analytics"
       ]
     },
     {
-      "name": "flare.companies.mapspeople",
+      "name": "node.companies.mapspeople",
       "imports": [
-        "flare.hardware.bluetooth",
-        "flare.verticals.heathcare"
+        "node.hardware.bluetooth",
+        "node.verticals.heathcare"
       ]
     },
     {
-      "name": "flare.companies.mapwize",
+      "name": "node.companies.mapwize",
       "imports": [
-        "flare.hardware.ultrasounds",
-        "flare.services.analytics"
+        "node.hardware.ultrasounds",
+        "node.services.analytics"
       ]
     },
     {
-      "name": "flare.companies.mazemap",
+      "name": "node.companies.mazemap",
       "imports": [
-        "flare.hardware.bluetooth",
-        "flare.verticals.heathcare"
+        "node.hardware.bluetooth",
+        "node.verticals.heathcare"
       ]
     },
     {
-      "name": "flare.companies.mist",
+      "name": "node.companies.mist",
       "imports": [
-        "flare.hardware.bluetooth",
-        "flare.verticals.heathcare"
+        "node.hardware.bluetooth",
+        "node.verticals.heathcare"
       ]
     },
     {
-      "name": "flare.companies.navigine",
+      "name": "node.companies.navigine",
       "imports": [
-        "flare.hardware.bluetooth",
-        "flare.verticals.heathcare"
+        "node.hardware.bluetooth",
+        "node.verticals.heathcare"
       ]
     },
     {
-      "name": "flare.companies.nextnav",
+      "name": "node.companies.nextnav",
       "imports": [
-        "flare.hardware.bluetooth",
-        "flare.verticals.heathcare"
+        "node.hardware.bluetooth",
+        "node.verticals.heathcare"
       ]
     },
     {
-      "name": "flare.companies.placeiq",
+      "name": "node.companies.placeiq",
       "imports": [
-        "flare.hardware.bluetooth",
-        "flare.verticals.heathcare"
+        "node.hardware.bluetooth",
+        "node.verticals.heathcare"
       ]
     },
     {
-      "name": "flare.companies.pointr",
+      "name": "node.companies.pointr",
       "imports": [
-        "flare.hardware.UWB",
-        "flare.hardware.bluetooth",
-        "flare.verticals.heathcare"
+        "node.hardware.UWB",
+        "node.hardware.bluetooth",
+        "node.verticals.heathcare"
       ]
     },
     {
-      "name": "flare.companies.purple",
+      "name": "node.companies.purple",
       "imports": [
-        "flare.verticals.stadiums",
-        "flare.hardware.bluetooth",
-        "flare.verticals.heathcare"
+        "node.verticals.stadiums",
+        "node.hardware.bluetooth",
+        "node.verticals.heathcare"
       ]
     },
     {
-      "name": "flare.companies.retailnext",
+      "name": "node.companies.retailnext",
       "imports": [
-        "flare.verticals.warehouse",
-        "flare.hardware.bluetooth",
-        "flare.verticals.heathcare"
+        "node.verticals.warehouse",
+        "node.hardware.bluetooth",
+        "node.verticals.heathcare"
       ]
     },
     {
-      "name": "flare.companies.skyfii",
+      "name": "node.companies.skyfii",
       "imports": [
-        "flare.services.analytics"
+        "node.services.analytics"
       ]
     },
     {
-      "name": "flare.companies.sewio_networks",
+      "name": "node.companies.sewio_networks",
       "imports": [
-        "flare.services.wayfinding",
-        "flare.hardware.bluetooth",
-        "flare.verticals.heathcare"
+        "node.services.wayfinding",
+        "node.hardware.bluetooth",
+        "node.verticals.heathcare"
       ]
     },
     {
-      "name": "flare.companies.spreo",
+      "name": "node.companies.spreo",
       "imports": [
-        "flare.verticals.heathcare"
+        "node.verticals.heathcare"
       ]
     },
     {
-      "name": "flare.companies.visioglobe",
+      "name": "node.companies.visioglobe",
       "imports": [
-        "flare.verticals.heathcare"
+        "node.verticals.heathcare"
       ]
     },
     {
-      "name": "flare.companies.walkbase",
+      "name": "node.companies.walkbase",
       "imports": [
-        "flare.services.RTLS",
-        "flare.hardware.bluetooth",
-        "flare.verticals.heathcare"
+        "node.services.RTLS",
+        "node.hardware.bluetooth",
+        "node.verticals.heathcare"
       ]
     },
     {
-      "name": "flare.companies.yelp",
+      "name": "node.companies.yelp",
       "imports": [
-        "flare.hardware.WiFi",
-        "flare.services.mapping",
-        "flare.hardware.bluetooth",
-        "flare.verticals.heathcare"
+        "node.hardware.WiFi",
+        "node.services.mapping",
+        "node.hardware.bluetooth",
+        "node.verticals.heathcare"
       ]
     },
     {
-      "name": "flare.services.analytics"
+      "name": "node.services.analytics"
     },
     {
-      "name": "flare.services.mapping"
+      "name": "node.services.mapping"
     },
     {
-      "name": "flare.services.RTLS"
+      "name": "node.services.RTLS"
     },
     {
-      "name": "flare.services.wayfinding"
+      "name": "node.services.wayfinding"
     },
     {
-      "name": "flare.hardware.bluetooth"
+      "name": "node.hardware.bluetooth"
     },
     {
-      "name": "flare.hardware.ultrasounds"
+      "name": "node.hardware.ultrasounds"
     },
     {
-      "name": "flare.hardware.UWB"
+      "name": "node.hardware.UWB"
     },
     {
-      "name": "flare.hardware.WiFi"
+      "name": "node.hardware.WiFi"
     },
     {
-      "name": "flare.verticals.airports"
+      "name": "node.verticals.airports"
     },
     {
-      "name": "flare.verticals.convention_centres"
+      "name": "node.verticals.convention_centres"
     },
     {
-      "name": "flare.verticals.heathcare"
+      "name": "node.verticals.heathcare"
     },
     {
-      "name": "flare.verticals.office"
+      "name": "node.verticals.office"
     },
     {
-      "name": "flare.verticals.realestate"
+      "name": "node.verticals.realestate"
     },
     {
-      "name": "flare.verticals.retail"
+      "name": "node.verticals.retail"
     },
     {
-      "name": "flare.verticals.stadiums"
+      "name": "node.verticals.stadiums"
     },
     {
-      "name": "flare.verticals.warehouse"
+      "name": "node.verticals.warehouse"
     }
   ]
