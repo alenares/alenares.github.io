@@ -4,6 +4,7 @@
       "imports": [
         "node.services.analytics",
         "node.services.mapping",
+        "node.services.indoor_navigation",
         "node.services.wayfinding",
         "node.hardware.WiFi",
         "node.hardware.cellular",
@@ -184,7 +185,14 @@
     {
       "name": "node.companies.visioglobe",
       "imports": [
-        "node.verticals.heathcare"
+        "node.services.analytics",
+        "node.services.mapping",
+        "node.services.indoor_navigation",
+        "node.services.wayfinding",
+        "node.verticals.airports",
+        "node.verticals.convention_centres",
+        "node.verticals.office",
+        "node.verticals.retail"
       ]
     },
     {
@@ -209,6 +217,9 @@
     },
     {
       "name": "node.services.mapping"
+    },
+    {
+      "name": "node.services.indoor_navigation"
     },
     {
       "name": "node.services.RTLS"
