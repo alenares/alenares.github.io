@@ -99,8 +99,17 @@
     {
       "name": "node.companies.mapwize",
       "imports": [
-        "node.hardware.ultrasounds",
-        "node.services.analytics"
+        "node.services.analytics",
+        "node.services.mapping",
+        "node.services.indoor_navigation",
+        "node.services.wayfinding",
+        "node.verticals.airports",
+        "node.verticals.convention_centres",
+        "node.verticals.heathcare",
+        "node.verticals.office",
+        "node.verticals.retail",
+        "node.verticals.university",
+        "node.verticals.warehouse"
       ]
     },
     {
@@ -231,6 +240,9 @@
       "name": "node.hardware.bluetooth"
     },
     {
+      "name": "node.hardware.cellular"
+    },
+    {
       "name": "node.hardware.ultrasounds"
     },
     {
@@ -240,7 +252,16 @@
       "name": "node.hardware.WiFi"
     },
     {
-      "name": "node.hardware.cellular"
+      "name": "node.software.API"
+    },
+    {
+      "name": "node.software.cms"
+    },
+    {
+      "name": "node.software.kiosk"
+    },
+    {
+      "name": "node.software.SDK"
     },
     {
       "name": "node.verticals.airports"
@@ -262,6 +283,9 @@
     },
     {
       "name": "node.verticals.stadiums"
+    },
+    {
+      "name": "node.verticals.university"
     },
     {
       "name": "node.verticals.warehouse"
