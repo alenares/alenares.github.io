@@ -8,6 +8,9 @@
         "node.services.wayfinding",
         "node.hardware.WiFi",
         "node.hardware.cellular",
+        "node.software.API",
+        "node.software.CMS",
+        "node.software.SDK",
         "node.verticals.heathcare",
         "node.verticals.realestate",
         "node.verticals.retail"
@@ -103,6 +106,9 @@
         "node.services.mapping",
         "node.services.indoor_navigation",
         "node.services.wayfinding",
+        "node.software.API",
+        "node.software.CMS",
+        "node.software.SDK",
         "node.verticals.airports",
         "node.verticals.convention_centres",
         "node.verticals.heathcare",
@@ -198,6 +204,10 @@
         "node.services.mapping",
         "node.services.indoor_navigation",
         "node.services.wayfinding",
+        "node.software.API",
+        "node.software.CMS",
+        "node.software.kiosk",
+        "node.software.SDK",
         "node.verticals.airports",
         "node.verticals.convention_centres",
         "node.verticals.office",
@@ -255,7 +265,7 @@
       "name": "node.software.API"
     },
     {
-      "name": "node.software.cms"
+      "name": "node.software.CMS"
     },
     {
       "name": "node.software.kiosk"
